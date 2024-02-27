@@ -1,4 +1,4 @@
-# Bootcamp-AI-900
+# Microsoft Azure AI Fundamentals
 Bootcamp DIO AI-900
 
 ![+AI 900](https://github.com/LuizVila/Bootcamp-AI-900/assets/50930798/40b47164-b136-4e07-90ca-b8afc448629e)
