@@ -52,9 +52,5 @@ Para o teste, utilizei o json abaixo:
 A previsão gerada foi:
 
 {1 item
-"Results":[1 item
-0:float354.2802801444516
-]
+"Results": 354.2802801444516
 }
-
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP01%20-%20Machine%20Learning/18.png" width="/> 
